@@ -24,9 +24,3 @@ login-page1/ │── index.html        # Main HTML file │── style.css   
    ```bash
    git clone https://github.com/yachirenn/login-page1.git
    cd login-page1
-
-
----
-
-✅ Just copy everything above into your `README.md` file.  
-If you’d like, I can also add **badges** (stars, forks, license, etc.) and a **live demo link** if you deploy it on Vercel or GitHub Pages, so the README looks even more professional. Would you like me to extend it that way?
