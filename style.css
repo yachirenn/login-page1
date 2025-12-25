@@ -324,6 +324,16 @@ span::after, span::before {
   color: #ffffff;
 }
 
+.error-message {
+    background-color: rgba(255, 0, 0, 0.1);
+    border: 1px solid rgba(255, 0, 0, 0.3);
+    color: #ff4d4d;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 0.9rem;
+}
 
 @media (max-width: 768px) {
     .container {
